@@ -2,8 +2,8 @@
     "symbol": "ONTK",
     "address": "0x56e950645b4321d4BAf4b35D4D9B757902198cf9",
     "overview": {
-        "en": "INSOURCE IT Solution, headquartered in Kuala Lumpur Malaysia, is a global Information Technology solution provider that brings Financial Technology Solutions.",
-        "zh": "INSOURCE IT Solution总部位于马来西亚吉隆坡，是一家全球信息技术解决方案提供商，为全球充满雄心和热情的企业提供金融技术解决方案，生物识别/企业解决方案和全球IT外包服务。"
+    "en": "INSOURCE IT Solution, headquartered in Kuala Lumpur Malaysia, is a global Information Technology solution provider that brings Financial Technology Solutions.",
+    "zh": "INSOURCE IT Solution总部位于马来西亚吉隆坡，是一家全球信息技术解决方案提供商，为全球充满雄心和热情的企业提供金融技术解决方案，生物识别/企业解决方案和全球IT外包服务。"
     },
     "email": "onetoken.info@gmail.com",
     "website": "https://onetoken.io",
@@ -14,7 +14,6 @@
 		"USD": "0.35 USD"
 	},
   "links": {
-    "telegram": "https://t.me/ONEVVallet"
+    "telegram": "https://t.me/ONEVVallet"   
   }
-  
 }
