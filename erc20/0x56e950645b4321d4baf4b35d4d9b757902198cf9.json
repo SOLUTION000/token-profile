@@ -9,11 +9,12 @@
     "website": "https://onetoken.io",
     "whitepaper": "https://onetoken.io/ONEwppcn.pdf ",
     "state": "NORMAL",
-    "published_on": "2018-10-01",
-  "links": {
-    "telegram": "https://t.me/ONEVVallet"
-  },
+  "published_on": "2019-05-20",
   	"initial_price": {
 		"USD": "0.35 USD"
-	}
+	},
+  "links": {
+    "telegram": "https://t.me/ONEVVallet"
+  }
+  
 }
